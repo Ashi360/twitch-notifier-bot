@@ -1,5 +1,5 @@
 // Twitch Channel Checker Bot
-// by DJ Arghlex#1729
+// by DJ Arghlex
 
 // DEPENDENCIES
 console.log( "Loading dependencies" )
@@ -12,7 +12,7 @@ const path = require( "path" ) // built-in to nodejs
 console.log( "Loading configuration" )
 const configuration = config.get( "configuration" )
 const botName = "Twitch Notifier Bot"
-const botAuthor = "DJ Arghlex#1729"
+const botAuthor = "DJ Arghlex"
 const botVersion = "0.3.5.2"
 
 // why the hell do i have to do this
