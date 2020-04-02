@@ -2,6 +2,10 @@
 
 Discord bot to notify multiple servers (in set channels) when a Twitch streamer goes live. Uses some code (and principles) from [fuyuneko's bot](<https://github.com/fuyuneko/discord-twitch-bot>)
 
+# This project is discontinued. Fork at will.
+
+Twitch and Discord are no longer platforms I wish to support, as they both have no idea how to safely store user data and not end up selling it to the highest bidder, so this project is indefinitely discontinued.
+
 ## Features
 
 - Active development! Wow!
@@ -12,8 +16,6 @@ Discord bot to notify multiple servers (in set channels) when a Twitch streamer 
 - Did I mention? It's free! Apparently I've got the market cornered!
 
 ## Installation
-
-**If this is too much horsing around for a single Discord bot, I run an instance of the bot myself. [Here's the invite link.](<https://discordapp.com/oauth2/authorize?client_id=411338896178282499&scope=bot&permissions=104321088>) AS SOON AS YOU GET IT INVITED INTO YOUR SERVER, PLEASE CONTACT ME FOR THE FINAL SETUP PROCESS. This will no longer be required when I finally get around to implementing the Discord permissions support in the next major version. Keep an eye on this repository for news on that particular front.**
 
 1. Install basic system utilities
 
